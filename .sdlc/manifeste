@@ -1,4 +1,4 @@
-sdlc-kit 1df0093e764dc3687110193a9d532557b68e66e6
+sdlc-kit 63ff01f28d6e96a49a8d6a3a642d39c50c0e0071
 projet test-sdlc-kit
 a49b402dbbec8b85fbd690931d766451315e68ec64397126aeafc3583f91a729  .claude/hooks/commit-hooks-git.sh
 5019b76bc8cdb8a04b683f53158bd081bd7cb49225ec001765e25af07638aa66  .claude/hooks/hooks-git-actifs.sh
@@ -11,7 +11,7 @@ c8f6e3ba69fbc5aee3c08cb2c1b24ca27539c8b7eb04088aeaf83cbebfbaf611  .claude/skills
 cb1baf06f8796e26577b14b6f2b41f87f6f5b53bebb5c61989ff918331f4cde1  .githooks/commit-msg
 2a0c6c1f41de6416ec21405306228a0d4bea977039452d76778bd93bf0c299ab  .githooks/lib/credential.sh
 bff70bce7ab8bc237f8d24267e7c4dc8531db8ac668727e89b31e27659919c54  .githooks/pre-commit
-8cd91261ab09de67f7da1cbc93d9eadfd65294bd44a67cfe9d037659eba0dca7  .github/scripts/sdlc-check.sh
+1e5758b31fc921fa8a1334a29c94e0639a4c3950ff314c7e4ee778c187ca4ec0  .github/scripts/sdlc-check.sh
 1577d083d81c54c083823b27809e0ebe751b41e99f31ba3e378724fc34f534fc  .github/workflows/sdlc.yml
 c187fcb49be3d6ebe2bacaf05e5f0f7910ecd8e777af36ca36e3ec31a620145e  .sdlc/config
 77286fde85328078d9939032f09b2ebbc81a356012b4e2eaadb16ce54547caa6  CLAUDE.md
